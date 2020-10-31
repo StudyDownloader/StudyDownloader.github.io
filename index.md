@@ -4,8 +4,6 @@ layout: default
 
 ## NTULearn Downloader
 
-Download | Support | User Guide
-
 Simple utility to download all documents and Aculearn Videos from NTULearn Blackboard
 
 Latest Releases ([all releases](https://github.com/leafgecko/NTULearn-Downloader-GUI/releases))
@@ -32,6 +30,9 @@ Other functionalities include:
 For the full source code:  
  - [Base Program](https://github.com/leafgecko/NTULearn-Downloader)
  - [GUI](https://github.com/leafgecko/NTULearn-Downloader-GUI) 
+ 
+### User Installation Guide
+[Windows Guide](./window_installer_guide.html)
 
 ### Support Us
 
