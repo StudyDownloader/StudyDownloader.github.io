@@ -2,6 +2,7 @@ theme: jekyll-theme-midnight
 title: NTU Learn Downloader
 tagline: App to download aculearn videos from ntulearn
 description: NTU Learn Downloader downloads all documents and AcuLearn videos. Productivity Study tool for NTU Students. ntulearn studydownloader
+google_analytics: UA-180909194-1
 url: https://studydownloader.github.io/
 google_analytics: UA-180909194-1
 github:
