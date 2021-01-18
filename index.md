@@ -7,6 +7,7 @@ layout: default
 Simple utility tool to download all documents and Aculearn Videos from NTULearn Blackboard
 
 Latest Releases ([all releases](https://github.com/leafgecko/NTULearn-Downloader-GUI/releases))
+
 - [Windows GUI Download](https://github.com/leafgecko/NTULearn-Downloader-GUI/releases/download/0.0.1/NTU.Learn.DownloaderSetup.exe)
 - [Mac OS X GUI Download](https://github.com/leafgecko/NTULearn-Downloader-GUI/releases/download/0.0.1/NTU.Learn.Downloader.dmg)
 - [Terminal / Command Line](https://github.com/leafgecko/NTULearn-Downloader) (recommended for Linux users)
@@ -17,6 +18,7 @@ Latest Releases ([all releases](https://github.com/leafgecko/NTULearn-Downloader
 NTU Learn Downloader exists as a Graphic User Interface (GUI) console and a Command Line Interface (CLI) application helps NTU Students download lectures, tutorials and even **AcuLearn videos** from NTU Learn Blackboard
 
 Other functionalities include:
+
 - select from modules to specific files
 - keeps track of previously downloaded files
 - save preferences of unwanted files
@@ -26,13 +28,15 @@ Other functionalities include:
 
 <!-- ~~Click here~~ for a detailed explanation on NTULearn Downloader and documentation. (coming soon) -->
 
+For the full source code:
 
-For the full source code:  
- - [Base Program](https://github.com/leafgecko/NTULearn-Downloader)
- - [GUI](https://github.com/leafgecko/NTULearn-Downloader-GUI) 
- 
+- [Base Program](https://github.com/leafgecko/NTULearn-Downloader)
+- [GUI](https://github.com/leafgecko/NTULearn-Downloader-GUI)
+
 ### User Installation Guide
-[Windows Guide](./window_installer_guide.html)
+
+[Windows Guide](./window_installer_guide.html)  
+[MacOS Guide](./macos_installer_guide.html)
 
 ### Support Us
 
